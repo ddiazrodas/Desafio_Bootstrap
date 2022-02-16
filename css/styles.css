@@ -59,13 +59,15 @@ p {
 /* -------------------------------------------------------PAGINA COVID---------------------------------------------------- */
 
 .tamaño-letra {
-    font-size: 30px;
+    font-size: 20px;
 }
 
-.img-main-covid {
+.img-links-covid {
     display: flex;
     background-image: url("/img/dudas-covid-vacuna-700x469.jpg");
+    height: 400px;
 }
+
 
 /* ------------------------------------------------------------ FOOTER -------------------------------------------- */
 .site-footer
@@ -138,4 +140,9 @@ p {
   {
     text-align:center
   }
+
+  .separacion-links-covid {
+
+    margin-top: 10px;
+}
 }
