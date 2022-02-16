@@ -15,7 +15,7 @@
 }
   
   
-.video-container iframe,{
+.video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -23,7 +23,7 @@
     height: 100%;
 }
   
-.video-container iframe, {
+.video-container iframe {
     pointer-events: none;
 }
 
